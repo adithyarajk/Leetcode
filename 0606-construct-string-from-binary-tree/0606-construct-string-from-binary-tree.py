@@ -5,25 +5,16 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def tree2str(self, t: Optional[TreeNode]) -> str:
-        res = []
-        self.dfs(t, res)
-        return ''.join(res)
-
-    def dfs(self, t, res):
-        if t is None:
-            return
-
-        res.append(str(t.val))
-
-        if t.left is None and t.right is None:
-            return
-
-        res.append('(')
-        self.dfs(t.left, res)
-        res.append(')')
-
-        if t.right is not None:
-            res.append('(')
-            self.dfs(t.right, res)
-            res.append(')')
+    def tree2str(self, root: Optional[TreeNode]) -> str:
+        if root is None:
+            return ""
+        if root:
+            result = str(root.val)
+            if root.left is None and root.right is None:
+                return result
+            
+            
+            result += "("+ self.tree2str(root.left)+")"
+            if root.right:
+                result += "("+self.tree2str(root.right)+")"
+            return result
