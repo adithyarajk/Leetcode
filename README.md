@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/adithyarajk/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/adithyarajk/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adithyarajk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Dynamic Programming
 |  |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/adithyarajk/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/adithyarajk/Leetcode/tree/master/0079-word-search) |
 # Sliding Window
 |  |
 | ------- |
@@ -75,3 +77,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/adithyarajk/Leetcode/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/adithyarajk/Leetcode/tree/master/0079-word-search) |
+# Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/adithyarajk/Leetcode/tree/master/0079-word-search) |
