@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/adithyarajk/Leetcode/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adithyarajk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 # Dynamic Programming
 |  |
@@ -70,3 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/adithyarajk/Leetcode/tree/master/0295-find-median-from-data-stream) |
+# Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/adithyarajk/Leetcode/tree/master/0039-combination-sum) |
