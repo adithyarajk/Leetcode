@@ -28,15 +28,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adithyarajk/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/adithyarajk/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/adithyarajk/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/adithyarajk/Leetcode/tree/master/0206-reverse-linked-list) |
 # Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/adithyarajk/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/adithyarajk/Leetcode/tree/master/0206-reverse-linked-list) |
 # Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adithyarajk/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/adithyarajk/Leetcode/tree/master/0143-reorder-list) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -49,3 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adithyarajk/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+# Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/adithyarajk/Leetcode/tree/master/0143-reorder-list) |
