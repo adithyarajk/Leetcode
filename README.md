@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0141-linked-list-cycle](https://github.com/adithyarajk/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/adithyarajk/Leetcode/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/adithyarajk/Leetcode/tree/master/0295-find-median-from-data-stream) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/adithyarajk/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/adithyarajk/Leetcode/tree/master/0295-find-median-from-data-stream) |
 # Merge Sort
 |  |
 | ------- |
@@ -56,3 +58,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/adithyarajk/Leetcode/tree/master/0143-reorder-list) |
+# Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/adithyarajk/Leetcode/tree/master/0295-find-median-from-data-stream) |
+# Sorting
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/adithyarajk/Leetcode/tree/master/0295-find-median-from-data-stream) |
+# Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/adithyarajk/Leetcode/tree/master/0295-find-median-from-data-stream) |
