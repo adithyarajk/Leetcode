@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/adithyarajk/Leetcode/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/adithyarajk/Leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adithyarajk/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/adithyarajk/Leetcode/tree/master/0200-number-of-islands) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -82,3 +83,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/adithyarajk/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/adithyarajk/Leetcode/tree/master/0200-number-of-islands) |
+# Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adithyarajk/Leetcode/tree/master/0200-number-of-islands) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adithyarajk/Leetcode/tree/master/0200-number-of-islands) |
+# Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/adithyarajk/Leetcode/tree/master/0200-number-of-islands) |
