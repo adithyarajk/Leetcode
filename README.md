@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/adithyarajk/Leetcode/tree/master/0213-house-robber-ii) |
+| [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -135,4 +136,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/adithyarajk/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
+## Math
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
