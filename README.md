@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adithyarajk/Leetcode/tree/master/0048-rotate-image) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/adithyarajk/Leetcode/tree/master/0213-house-robber-ii) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/adithyarajk/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -187,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/adithyarajk/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
