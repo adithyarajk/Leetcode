@@ -124,11 +124,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0213-house-robber-ii](https://github.com/adithyarajk/Leetcode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/adithyarajk/Leetcode/tree/master/0322-coin-change) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/adithyarajk/Leetcode/tree/master/0091-decode-ways) |
 | [0213-house-robber-ii](https://github.com/adithyarajk/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/adithyarajk/Leetcode/tree/master/0322-coin-change) |
 | [0647-palindromic-substrings](https://github.com/adithyarajk/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
@@ -164,4 +166,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0091-decode-ways](https://github.com/adithyarajk/Leetcode/tree/master/0091-decode-ways) |
 | [0647-palindromic-substrings](https://github.com/adithyarajk/Leetcode/tree/master/0647-palindromic-substrings) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/adithyarajk/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
