@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/adithyarajk/Leetcode/tree/master/0213-house-robber-ii) |
+| [0647-palindromic-substrings](https://github.com/adithyarajk/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -153,4 +154,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/adithyarajk/Leetcode/tree/master/0647-palindromic-substrings) |
+## String
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/adithyarajk/Leetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
