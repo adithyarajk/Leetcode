@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adithyarajk/Leetcode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adithyarajk/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/adithyarajk/Leetcode/tree/master/0057-insert-interval) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/adithyarajk/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/adithyarajk/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/adithyarajk/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
