@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/adithyarajk/Leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/adithyarajk/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/adithyarajk/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/adithyarajk/Leetcode/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/adithyarajk/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Binary Search
@@ -216,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/adithyarajk/Leetcode/tree/master/0435-non-overlapping-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/adithyarajk/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
