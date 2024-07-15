@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
 | [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
 ## Math
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/adithyarajk/Leetcode/tree/master/0322-coin-change) |
 ## Trie
 |  |
@@ -224,4 +226,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/adithyarajk/Leetcode/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
+## Graph
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
