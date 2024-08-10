@@ -1,27 +1,28 @@
-class Solution:
-    def isAnagram(self, s: str, t: str) -> bool:
-        
-        if len(s) != len(t):
-            return False
+class Solution(object):
+    def createDict(self, s):
+        counter = dict()
 
-        if set(s) != set(t):
-            return False
+        for i in s:
+            if counter.get(i):
+                counter[i]=counter.get(i) +1
+            else:
+                counter[i]=1
+        return counter
 
-        count_s = {}
-        count_t = {}
-        for ele in s:
-            if ele not in count_s:
-                count_s[ele] = 1
-            else:
-                count_s[ele] += 1
-        for ele in t:
-            if ele not in count_t:
-                count_t[ele] = 1
-            else:
-                count_t[ele] += 1
-        
-        for ele in s:
-            if count_s[ele] != count_t[ele]:
+    
+    def isAnagram(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        dict1 = self.createDict(s)
+        dict2 = self.createDict(t)
+        for i in s:
+            if dict1.get(i)!=dict2.get(i):
                 return False
-        
+        for i in t:
+            if dict1.get(i)!=dict2.get(i):
+                return False
+
         return True
