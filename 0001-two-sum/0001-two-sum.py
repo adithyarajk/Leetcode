@@ -1,10 +1,13 @@
-class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hash_map = {}
+class Solution(object):
+    def twoSum(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        hash_table = dict()
         for index, num in enumerate(nums):
-            complement = target-num
-            if complement in hash_map:
-                return hash_map[complement], index
-            hash_map[num] = index
-
-        return -1, -1
+            if target - num in hash_table:
+                return hash_table.get(target - num), index
+            else:
+                hash_table[num] = index
