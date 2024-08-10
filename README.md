@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/adithyarajk/Leetcode/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/adithyarajk/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/adithyarajk/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adithyarajk/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/adithyarajk/Leetcode/tree/master/0057-insert-interval) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adithyarajk/Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/adithyarajk/Leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/adithyarajk/Leetcode/tree/master/0217-contains-duplicate) |
@@ -188,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adithyarajk/Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/adithyarajk/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/adithyarajk/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
@@ -199,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adithyarajk/Leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/adithyarajk/Leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/adithyarajk/Leetcode/tree/master/0242-valid-anagram) |
