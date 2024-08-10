@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adithyarajk/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/adithyarajk/Leetcode/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/adithyarajk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0213-house-robber-ii](https://github.com/adithyarajk/Leetcode/tree/master/0213-house-robber-ii) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/adithyarajk/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/adithyarajk/Leetcode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/adithyarajk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/adithyarajk/Leetcode/tree/master/0217-contains-duplicate) |
@@ -251,4 +253,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/adithyarajk/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/adithyarajk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
