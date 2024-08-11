@@ -1,10 +1,13 @@
-class Solution:
-    def isPalindrome(self, s: str) -> bool:
-
+class Solution(object):
+    def isPalindrome(self, s):
+        """
+        :type s: str
+        :rtype: bool
+        """
+        process = ""
         s = s.lower()
-        e = ""
-        for ele in s:
-            if ele.isalnum():
-                e = e +ele
-        
-        return e == e[::-1]
+        for char in s:
+            if char.isalnum():
+                process+= char
+
+        return process == process[::-1]
