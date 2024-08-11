@@ -201,12 +201,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/adithyarajk/Leetcode/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/adithyarajk/Leetcode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/adithyarajk/Leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/adithyarajk/Leetcode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/adithyarajk/Leetcode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/adithyarajk/Leetcode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/adithyarajk/Leetcode/tree/master/0647-palindromic-substrings) |
