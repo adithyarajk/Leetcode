@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/adithyarajk/Leetcode/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/adithyarajk/Leetcode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/adithyarajk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/adithyarajk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/adithyarajk/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/adithyarajk/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -191,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/adithyarajk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/adithyarajk/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/adithyarajk/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/adithyarajk/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -238,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0048-rotate-image](https://github.com/adithyarajk/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/adithyarajk/Leetcode/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/adithyarajk/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Simulation
 |  |
 | ------- |
