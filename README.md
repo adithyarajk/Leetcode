@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/adithyarajk/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/adithyarajk/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0792-binary-search](https://github.com/adithyarajk/Leetcode/tree/master/0792-binary-search) |
+| [2058-concatenation-of-array](https://github.com/adithyarajk/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/adithyarajk/Leetcode/tree/master/0054-spiral-matrix) |
+| [2058-concatenation-of-array](https://github.com/adithyarajk/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
