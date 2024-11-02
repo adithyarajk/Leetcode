@@ -230,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/adithyarajk/Leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/adithyarajk/Leetcode/tree/master/0547-number-of-provinces) |
 ## Trie
 |  |
 | ------- |
@@ -262,10 +263,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/adithyarajk/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/adithyarajk/Leetcode/tree/master/0547-number-of-provinces) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -274,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/adithyarajk/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/adithyarajk/Leetcode/tree/master/0547-number-of-provinces) |
 ## Sliding Window
 |  |
 | ------- |
