@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/adithyarajk/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/adithyarajk/Leetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/adithyarajk/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Trie
 |  |
 | ------- |
@@ -264,11 +265,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/adithyarajk/Leetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/adithyarajk/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Graph
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/adithyarajk/Leetcode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/adithyarajk/Leetcode/tree/master/0547-number-of-provinces) |
+| [0820-find-eventual-safe-states](https://github.com/adithyarajk/Leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -292,4 +295,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/adithyarajk/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/adithyarajk/Leetcode/tree/master/0206-reverse-linked-list) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/adithyarajk/Leetcode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
