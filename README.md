@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/adithyarajk/Leetcode/tree/master/0242-valid-anagram) |
 | [0647-palindromic-substrings](https://github.com/adithyarajk/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/adithyarajk/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/adithyarajk/Leetcode/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/adithyarajk/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Breadth-First Search
 |  |
@@ -302,4 +303,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/adithyarajk/Leetcode/tree/master/0820-find-eventual-safe-states) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/adithyarajk/Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
